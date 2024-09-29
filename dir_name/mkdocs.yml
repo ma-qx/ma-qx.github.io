@@ -1,0 +1,8 @@
+site_name: xzz's world
+nav:
+  - 主页: index.md
+  - 概述: 概述.md
+  - 能源:
+      - 概述: abc/a.md
+      - 细节设计: abc/b.md
+      - 创新设计: abc/c.md
